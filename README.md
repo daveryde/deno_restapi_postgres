@@ -8,7 +8,7 @@ Made with Deno. Stirred with third party modules denon and postgres. REST API wi
 
 2. Install [Postgres](https://www.postgresql.org/)
 
-3. Create Database Models
+# Postgres Models
 
 ```sql
 id: serial
@@ -28,8 +28,6 @@ denon.cmd start
 ```bash
 denon start
 ```
-
-# Postgres
 
 ## Usage
 
