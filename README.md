@@ -1,6 +1,6 @@
 # Deno / REST API
 
-Made with Deno. REST API with CRUD routes that access hard coded json data to mimic accessing a database.
+Made with Deno. Stirred with third party modules denon and postgres. REST API with CRUD routes that access hard coded json data to mimic accessing a database.
 
 ## Installation
 
