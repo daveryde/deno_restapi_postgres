@@ -4,7 +4,18 @@ Made with Deno. REST API with CRUD routes that access hard coded json data to mi
 
 ## Installation
 
-Install [Deno](https://deno.land/#installation) by choosing the option that meets your machine's OS.
+1. Install [Deno](https://deno.land/#installation) by choosing the option that meets your machine's OS.
+
+2. Install [Postgres](https://www.postgresql.org/)
+
+3. Create Database Models
+
+```sql
+id: serial
+name: text
+description: text
+price: numeric
+```
 
 # Windows
 
@@ -17,6 +28,8 @@ denon.cmd start
 ```bash
 denon start
 ```
+
+# Postgres
 
 ## Usage
 
